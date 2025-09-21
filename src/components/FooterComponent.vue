@@ -1,3 +1,4 @@
+<!-- FooterComponent.vue -->
 <template>
   <div class="fixed bottom-0 left-0 w-full">
     <fwb-footer class="bg-black text-white flex flex-col items-center p-4">

@@ -1,4 +1,4 @@
-// App.vue
+<!-- App.vue -->
 <template>
   <div id="app" class="border-gray-950 rounded-3xl mx-10">
     <RouterView />
